@@ -1,31 +1,40 @@
-# Vinkle Srivastav  
-🌟 **Senior Researcher (Chargé de recherche R&D)**  
-*IHU Strasbourg, University of Strasbourg, France*  
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 20px;">
+    <a href="https://vinkle.github.io/">
+      <img src="https://raw.githubusercontent.com/vinkle/vinkle/main/profile-vinkle.jpeg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
+    </a>
+  </div>
+  <div>
+    # **Vinkle Srivastav**  
+    ✨ **Senior Researcher (Chargé de recherche R&D)**  
+    *IHU Strasbourg, University of Strasbourg, France*  
+  </div>
+</div> 
 
 ---
 
-I am a **Senior Researcher** at the [CAMMA lab](https://camma.unistra.fr/) in [IHU Strasbourg](https://www.ihu-strasbourg.eu/), where I focus on **Surgical Data Science**. My work bridges the gap between computer vision, machine learning, and surgical video analysis. I hold a **Ph.D. in Computer Science** from the University of Strasbourg, where I worked under the mentorship of [Prof. Nicolas Padoy](https://camma.unistra.fr/npadoy/). My research centered on **unsupervised domain adaptation for human pose estimation in the operating room**. Prior to this, I contributed to the development of **physical and virtual reality simulators** for neurosurgical skill evaluation at the [NETS lab](https://www.aiimsnets.org/), All-India Institute of Medical Science, Delhi, and the Indian Institute of Technology, Delhi.  
+I am a **Senior Researcher** at the [CAMMA lab](https://camma.unistra.fr/) in [IHU Strasbourg](https://www.ihu-strasbourg.eu/), where I focus on **Surgical Data Science**. My work bridges the gap between computer vision, machine learning, and surgical video analysis. I hold a **Ph.D. in Computer Science** from the University of Strasbourg, where I worked under the mentorship of [Prof. Nicolas Padoy](https://camma.unistra.fr/npadoy/). My research centered on **unsupervised domain adaptation for human pose estimation in the operating room**. Prior to this, I contributed to the development of **physical and virtual reality simulators** for neurosurgical skill evaluation at the [NETS lab](https://www.aiimsnets.org/), All-India Institute of Medical Science, Delhi, and the Indian Institute of Technology, Delhi.    
 
 ---
 
 ### 🌐 **Connect with Me**  
-- **Personal Website**: [vinkle.github.io](https://vinkle.github.io)  
-- **Google Scholar**: [🔗 Profile](https://scholar.google.com/citations?user=SFDWwdoQAAAAJ)  
-- **LinkedIn**: [👔 Connect](https://www.linkedin.com/in/vinkle-srivastav)  
+- **🌍 Personal Website**: [vinkle.github.io](https://vinkle.github.io)  
+- **📚 Google Scholar**: [🔗 Profile](https://scholar.google.com/citations?user=SFDWwdoQAAAAJ)  
+- **👔 LinkedIn**: [🔗 Connect](https://www.linkedin.com/in/vinkle-srivastav)  
 
 ---
 
 ## 🛠️ **Research Interests**  
 My research spans a wide range of topics at the intersection of computer vision, machine learning, and healthcare. Here are some of my key areas of interest:  
 
-- **Surgical Data Science**  
-- **3D Medical Image Analysis**  
-- **Multi-modal Pre-training**  
-- **Multi-view 3D Human Pose Estimation**  
-- **Self-supervised Learning**  
-- **Surgical Activity Recognition**  
-- **Scientific Machine Learning**  
-- **Scientific Simulation**  
+- **🔬 Surgical Data Science**  
+- **🖼️ 3D Medical Image Analysis**  
+- **🤖 Multi-modal Pre-training**  
+- **👤 Multi-view 3D Human Pose Estimation**  
+- **🎓 Self-supervised Learning**  
+- **🩺 Surgical Activity Recognition**  
+- **🧠 Scientific Machine Learning**  
+- **🖥️ Scientific Simulation**  
 
 ---
 
@@ -34,9 +43,8 @@ My research spans a wide range of topics at the intersection of computer vision,
 ### **Senior Researcher (Chargé de recherche R&D)**  
 *IHU Strasbourg, University of Strasbourg*  
 📅 **2022 – Ongoing** | 📍 Strasbourg, France  
-- Leading cutting-edge research in **surgical data science** within the CAMMA group.  
-- Mentoring **PhD students** and **interns** to foster the next generation of researchers.  
-- Building **collaborations** with external labs to drive innovation in surgical AI.  
+- Doing research in **surgical data science** within the CAMMA group.  
+- Mentoring **PhD students** and **interns**.  
 - Developing **educational modules** to disseminate knowledge in surgical data science.  
 
 ### **Research Associate**  
@@ -101,34 +109,34 @@ My research spans a wide range of topics at the intersection of computer vision,
 
 ## 💻 **Technical Skills**  
 
-### **Programming Languages**  
-C, C++, Python, Matlab  
+### **🛠️ Programming Languages**  
+**C** 🖥️ | **C++** 🖥️ | **Python** 🐍 | **Matlab** 📊  
 
-### **Deep Learning Frameworks**  
-PyTorch, TensorFlow  
+### **🤖 Deep Learning Frameworks**  
+**PyTorch** 🔥 | **TensorFlow** 🧠  
 
-### **Libraries**  
-OpenCV, Armadillo, MathGL, OpenGL, ITK, VTK, VEGA FEM, Chai-3D  
+### **📚 Libraries**  
+**OpenCV** 📷 | **Armadillo** 🦾 | **MathGL** 📈 | **OpenGL** 🎮 | **ITK** 🏥 | **VTK** 🏥 | **VEGA FEM** 🏗️ | **Chai-3D** 🎮  
 
-### **Databases**  
-MySQL, SQLite  
+### **🗄️ Databases**  
+**MySQL** 🐬 | **SQLite** 🗃️  
 
-### **Tools**  
-LaTeX, Unity 3D, Blender, MeshLab, 3D Slicer, ITK-Snap, CMake  
+### **🛠️ Tools**  
+**LaTeX** 📄 | **Unity 3D** 🎮 | **Blender** 🎨 | **MeshLab** 🖌️ | **3D Slicer** 🏥 | **ITK-Snap** 🏥 | **CMake** 🛠️  
 
-### **Web Development**  
-HTML, CSS, JavaScript, Joomla, Moodle, OpenEdx, GitHub Pages, Vite, Jekyll, Hugo  
+### **🌐 Web Development**  
+**HTML** 📄 | **CSS** 🎨 | **JavaScript** 🕹️ | **Joomla** 🌐 | **Moodle** 🎓 | **OpenEdx** 🎓 | **GitHub Pages** 🐙 | **Vite** ⚡ | **Jekyll** 🛠️ | **Hugo** 🛠️  
 
-### **Hardware**  
-Arduino, Raspberry Pi  
+### **🖥️ Hardware**  
+**Arduino** 🔌 | **Raspberry Pi** 🍓 
 
 ---
 
 ## 🏆 **Awards**  
 
-- **IPCAI 2024** - Best paper award (co-author)  
-- **IPCAI 2019** - Runner-up award in the bench-to-bedside category (co-author)  
-- **AIIMS-NBRC Post Graduate Symposium, 2013** - Best paper award for “e-learning in neuro-surgery”  
+- **🏅 IPCAI 2024** - Best paper award (co-author)  
+- **🥈 IPCAI 2019** - Runner-up award in the bench-to-bedside category (co-author)  
+- **🏆 AIIMS-NBRC Post Graduate Symposium, 2013** - Best paper award for “e-learning in neuro-surgery”  
 
 ---
 
