@@ -1,13 +1,8 @@
 <div align="center">
   <table>
     <tr>
-      <td style="padding-right: 20px;">
-        <a href="https://vinkle.github.io/">
-          <img src="https://raw.githubusercontent.com/vinkle/vinkle/main/profile-vinkle.jpeg" alt="Profile Picture of Vinkle Srivastav" style="border-radius: 50%; width: 150px; height: 150px;">
-        </a>
-      </td>
       <td>
-        <h1>Vinkle Srivastav</h1>
+        <h1> Vinkle Srivastav </h1>
         <p>✨ <strong>Senior Researcher (Chargé de recherche R&D)</strong></p>
         <p><em>IHU Strasbourg, University of Strasbourg, France</em></p>
       </td>
