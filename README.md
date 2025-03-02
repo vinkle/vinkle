@@ -2,10 +2,10 @@
 
 **Senior Researcher (Chargé de recherche R&D)**  
 *IHU Strasbourg, University of Strasbourg, France*  
-📧 [srivastav@unistra.fr](mailto:srivastav@unistra.fr)  
-🌐 [vinkle.github.io](https://vinkle.github.io)  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=SFDWwdoQAAAAJ)  
-👔 [LinkedIn](https://www.linkedin.com/in/vinkle-srivastav) 
+
+### 🌐 [vinkle.github.io](https://vinkle.github.io)  
+### 🔗 [Google Scholar](https://scholar.google.com/citations?user=SFDWwdoQAAAAJ)  
+### 👔 [LinkedIn](https://www.linkedin.com/in/vinkle-srivastav)  
 
 ---
 
