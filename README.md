@@ -70,6 +70,33 @@
 
 ---
 
+## 📚 Selected Publications
+
+- **Book Chapters**  
+  - *Neural and Deep Networks Learning*, D. Alapatt, P. Mascagni, V. Srivastav, and N. Padoy, (McGraw Hill Professional, 2021)
+
+- **Patents**  
+  - *Neuro-endoscope box trainer* (US Patent 10,902,745, Jan. 2021)  
+  - *Neuro-drill-stencil trainer* (US Patent App. 15/517,773, Nov. 2017)  
+
+- **Journal Articles**
+  - *Unsupervised domain adaptation for clinician pose estimation and instance segmentation in the operating room*, V. Srivastav, A. Gangi, and N. Padoy (Medical Image Analysis, 2022)
+  - *Dissecting self-supervised learning methods for surgical computer vision*, S. Ramesh, V. Srivastav, D. Alapatt, et al., (Medical Image Analysis, 2023)
+  - *Advancing surgical VQA with scene graph knowledge*, K. Yuan, M. Kattel, J. L. Lavanchy, N. Navab, V. Srivastav, and N. Padoy, (IJCARS, 2024)  
+
+- **Conference Proceedings**
+  - *Human pose estimation on privacy‐preserving low‐resolution depth images*, V. Srivastav, A. Gangi, and N. Padoy, (MICCAI 2019)
+  - *Self‐supervision on unlabelled or data for multi‐person 2d/3d human pose estimation*, V. Srivastav, A. Gangi, and N. Padoy, (MICCAI 2020)
+  - *Jumpstarting surgical computer vision*, D. Alapatt, A. Murali, V. Srivastav, A. Consortium, P. Mascagni, and N. Padoy, (MICCAI, 2024)
+  - *“Hecvl: Hierarchical video‐language pretraining for zero‐shot surgical phase recognition*,  K. Yuan, V. Srivastav, N. Navab, and N. Padoy, (MICCAI 2024)
+  - *Procedure‐aware surgical video‐language pretraining with hierarchical knowledge augmentation*, K. Yuan, V. Srivastav, N. Navab, and N. Padoy, (NeurIPS 2024)
+  - *Self-supervised multi-person multi-view 3D pose estimation* (CVPR, 2024)  
+
+All publications: 🔗 [Google Scholar](https://scholar.google.com/citations?user=SFDWwdoQAAAAJ) 
+
+---
+
+
 ## 💻 Technical Skills
 
 ### **Programming Languages**  
@@ -95,25 +122,6 @@ Arduino, Raspberry Pi
 
 ---
 
-## 📚 Selected Publications
-
-- **Book Chapters**  
-  - *Neural and Deep Networks Learning* (McGraw Hill Professional, 2021)  
-
-- **Patents**  
-  - *Neuro-endoscope box trainer* (US Patent 10,902,745, Jan. 2021)  
-  - *Neuro-drill-stencil trainer* (US Patent App. 15/517,773, Nov. 2017)  
-
-- **Journal Articles**  
-  - *Advancing surgical VQA with scene graph knowledge* (IJCARS, 2024)  
-  - *Dissecting self-supervised learning methods for surgical computer vision* (Medical Image Analysis, 2023)  
-
-- **Conference Proceedings**  
-  - *Jumpstarting surgical computer vision* (MICCAI, 2024)  
-  - *Self-supervised multi-person multi-view 3D pose estimation* (CVPR, 2024)  
-
----
-
 ## 🏆 Awards
 
 - **IPCAI 2024** - Best paper award (co-author)  
@@ -124,5 +132,4 @@ Arduino, Raspberry Pi
 
 ---
 
-📄 **CV Last Updated**: 2024  
 🔗 **GitHub**: [vinkle.github.io](https://vinkle.github.io)
