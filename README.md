@@ -3,7 +3,7 @@
     <tr>
       <td style="padding-right: 20px;">
         <a href="https://vinkle.github.io/">
-          <img src="https://raw.githubusercontent.com/vinkle/vinkle/main/profile-vinkle.jpeg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
+          <img src="https://raw.githubusercontent.com/vinkle/vinkle/main/profile-vinkle.jpeg" alt="Profile Picture of Vinkle Srivastav" style="border-radius: 50%; width: 150px; height: 150px;">
         </a>
       </td>
       <td>
