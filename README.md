@@ -1,9 +1,10 @@
 # Vinkle Srivastav
+**Senior Researcher (Chargé de recherche R&D)**  
+*IHU Strasbourg, University of Strasbourg, France*  
 
 I am a senior researcher at the [CAMMA lab](https://camma.unistra.fr/) in [IHU Strasbourg](https://www.ihu-strasbourg.eu/), with a focus on surgical data science. I obtained my Ph.D. from the University of Strasbourg, where I worked under the guidance of [Prof. Nicolas Padoy](https://camma.unistra.fr/npadoy/), specializing in unsupervised domain adaptation for human pose estimation in the operating room. Before that, I contributed to the development of physical and virtual reality simulators using computer vision and computer graphics for neurosurgical skill evaluation at the [NETS lab](https://www.aiimsnets.org/), All-India Institute of Medical Science, Delhi, and the Indian Institute of Technology, Delhi.
 
-**Senior Researcher (Chargé de recherche R&D)**  
-*IHU Strasbourg, University of Strasbourg, France*  
+
 
 ### 🌐 [vinkle.github.io](https://vinkle.github.io)  
 ### 🔗 [Google Scholar](https://scholar.google.com/citations?user=SFDWwdoQAAAAJ)  
