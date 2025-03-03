@@ -18,8 +18,8 @@ I am a **Research Scientist** at the [CAMMA lab](https://camma.unistra.fr/) in [
 
 ### 🌐 **Connect with Me**  
 - **🌍 Personal Website**: [vinkle.github.io](https://vinkle.github.io)  
-- **📚 Google Scholar**: [🔗 Profile](https://scholar.google.com/citations?user=SFDWwdoQAAAAJ)  
-- **👔 LinkedIn**: [🔗 Connect](https://www.linkedin.com/in/vinkle-srivastav)  
+- **📚 Google Scholar**: [🔗Profile](https://scholar.google.com/citations?user=SFDWwdoQAAAAJ)  
+- **👔 LinkedIn**: [🔗Connect](https://www.linkedin.com/in/vinkle-srivastav)  
 
 ---
 
