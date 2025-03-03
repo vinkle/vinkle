@@ -3,7 +3,7 @@
     <tr>
       <td>
         <h1> Vinkle Srivastav </h1>
-        <p>✨ <strong>Senior Researcher (Chargé de recherche R&D)</strong></p>
+        <p>✨ <strong>Research Scientist (Chargé de recherche R&D)</strong></p>
         <p><em>IHU Strasbourg, University of Strasbourg, France</em></p>
       </td>
     </tr>
@@ -12,7 +12,7 @@
 
 ---
 
-I am a **Senior Researcher** at the [CAMMA lab](https://camma.unistra.fr/) in [IHU Strasbourg](https://www.ihu-strasbourg.eu/), where I focus on **Surgical Data Science**. My work bridges the gap between computer vision, machine learning, and surgical video analysis. I hold a **Ph.D. in Computer Science** from the University of Strasbourg, where I worked under the mentorship of [Prof. Nicolas Padoy](https://camma.unistra.fr/npadoy/). My research centered on **unsupervised domain adaptation for human pose estimation in the operating room**. Prior to this, I contributed to the development of **physical and virtual reality simulators** for neurosurgical skill evaluation at the [NETS lab](https://www.aiimsnets.org/), All-India Institute of Medical Science, Delhi, and the Indian Institute of Technology, Delhi.    
+I am a **Research Scientist** at the [CAMMA lab](https://camma.unistra.fr/) in [IHU Strasbourg](https://www.ihu-strasbourg.eu/), where I focus on **Surgical Data Science**. My work bridges the gap between computer vision, machine learning, and surgical video analysis. I hold a **Ph.D. in Computer Science** from the University of Strasbourg, where I worked under the mentorship of [Prof. Nicolas Padoy](https://camma.unistra.fr/npadoy/). My research centered on **unsupervised domain adaptation for human pose estimation in the operating room**. Prior to this, I contributed to the development of **physical and virtual reality simulators** for neurosurgical skill evaluation at the [NETS lab](https://www.aiimsnets.org/), All-India Institute of Medical Science, Delhi, and the Indian Institute of Technology, Delhi.    
 
 ---
 
@@ -39,7 +39,7 @@ My research spans a wide range of topics at the intersection of computer vision,
 
 ## 👨‍💻 **Professional Experience**  
 
-### **Senior Researcher (Chargé de recherche R&D)**  
+### **Research Scientist (Chargé de recherche R&D)**  
 *IHU Strasbourg, University of Strasbourg*  
 📅 **2022 – Ongoing** | 📍 Strasbourg, France  
 - Doing research in **surgical data science** within the CAMMA group.  
