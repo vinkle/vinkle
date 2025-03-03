@@ -134,11 +134,10 @@ My research spans a wide range of topics at the intersection of computer vision,
 ## 🏆 **Awards**  
 
 - **🏅 IPCAI 2024** - Best paper award (co-author)  
-- **🥈 IPCAI 2019** - Runner-up award in the bench-to-bedside category (co-author)  
-- **🏆 AIIMS-NBRC Post Graduate Symposium, 2013** - Best paper award for “e-learning in neuro-surgery”  
+- **🥈 IPCAI 2019** - Runner-up award in the bench-to-bedside category (co-author) 
 
 ---
 
-🔗 **GitHub**: [vinkle.github.io](https://vinkle.github.io)  
+🔗 **Website**: [vinkle.github.io](https://vinkle.github.io)  
 
 ---
