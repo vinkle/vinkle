@@ -67,12 +67,15 @@ My research spans a wide range of topics at the intersection of computer vision,
 *University of Strasbourg, France*  
 📅 **2018 – 2021**  
 - **Thesis**: *Unsupervised Domain Adaptation Approaches for Person Localization in the Operating Rooms*  
-- **Research Areas**: Human pose estimation, unsupervised domain adaptation, self-supervised learning, privacy-preservation.  
+- **Research Areas**: Human pose estimation, unsupervised domain adaptation, self-supervised learning, privacy-preservation.
+- **Thesis Directors**: [Prof. Nicolas Padoy](https://camma.unistra.fr/npadoy/), [Prof. Afshin Gangi](https://www.linkedin.com/in/gangi-afshin-b2269239/)
+- **Thesis Committee**: [Prof. Gregory Hager](https://www.cs.jhu.edu/hager/), [Prof. Slobodan Ilic](https://www.cs.cit.tum.de/en/camp/members/senior-affiliates/slobodan-ilic/), [Prof. Vasileios Belagiannis](https://www.lms.tf.fau.eu/person/vasileios-belagiannis/), [Prof. Michel de Mathelin](https://www.unistra.fr/equipe-presidentielle/michel-de-mathelin)
 
 ### **Master of Science (Research), Computer Science**  
 *Indian Institute of Technology, Delhi, India*  
 📅 **2014 – 2017**  
-- **Thesis**: *Computerized evaluation of neurosurgery skills using image processing and computer vision techniques*  
+- **Thesis**: *Computerized evaluation of neurosurgery skills using image processing and computer vision techniques*
+- **Thesis Directors**: [Prof. Prem Kalra](https://scholar.google.co.uk/citations?user=ttrJhoUAAAAJ&hl=en), [Prof. Ashish Suri](https://en.wikipedia.org/wiki/Ashish_Suri)
 - **CGPA**: 9.3/10  
 
 ### **Bachelor of Technology, Electronics and Communication**  
